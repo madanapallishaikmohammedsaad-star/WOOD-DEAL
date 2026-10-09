@@ -1,0 +1,6 @@
+{
+  "name": "Wood Deal",
+  "description": "Simple deal-by-deal accounting for wood and demolition scrap business with partner investments, expenses, stock, sales, profit sharing, and bill photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
